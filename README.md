@@ -5,7 +5,7 @@
 ### Điện Thoại : 01698618125
 ### Link FB    : https://www.facebook.com/SOK.Trungxi
 
- --- |Thứ 2| Thứ 3 | Thứ 4 
+| |Thứ 2| Thứ 3 | Thứ 4 
 --- |---  | ---   | ---
 --- |*Still* | `renders` | **nicely**
 --- |1 | 2 | 3
